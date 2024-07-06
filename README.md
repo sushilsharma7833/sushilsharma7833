@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sushilsharma7833
 - 👀 I’m interested in ...programming
-- 🌱 I’m currently learning ...full stack developement trannee...!
+- 🌱 I’m currently learning ...full stack developement trainnee...!
 - 💞️ I’m looking to collaborate on ...codding journey
 - 📫 How to reach me ...linkedin profil link -linkedin.com/in/sushil-navhal7833
 
